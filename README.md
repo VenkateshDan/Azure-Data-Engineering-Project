@@ -1,7 +1,5 @@
 # Azure-Data-Engineering-Project
 
-# Azure Data Engineering Project 🚀
-
 ## 📌 Overview
 This project demonstrates an **end-to-end Azure Data Engineering Pipeline** using modern cloud technologies. The goal is to **ingest, process, transform, and automate data workflows** using Azure services such as **Azure Data Factory (ADF), Azure Data Lake (ADLS), Azure Databricks (PySpark), and Azure DevOps (CI/CD)**.
 
