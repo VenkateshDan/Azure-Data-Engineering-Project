@@ -1,0 +1,11 @@
+datasets link
+
+
+https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?resource=download
+
+used files:
+-------------------
+athlets
+coaches
+events
+nocs
